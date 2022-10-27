@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 97193a78f7190e64693cf07ba666aecc
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 7010428714613127198
+    second: Armature|Eyes_Blink.L
+  - first:
+      74: 6252648794553747996
+    second: Armature|Eyes_Blink.R
+  - first:
+      74: -233922907330248962
+    second: Armature|Eyes_Wide.L
+  - first:
+      74: 4398666743606674171
+    second: Armature|Eyes_Wide.R
+  - first:
+      74: 1779397085455464131
+    second: Armature|Face_Cheekup.L
+  - first:
+      74: 763710900599101616
+    second: Armature|Face_Cheekup.R
+  - first:
+      74: -2465184377745244636
+    second: Armature|Face_MouthDWN
+  - first:
+      74: 8027308412297322628
+    second: Armature|Face_MouthLFT
+  - first:
+      74: 6756282218745488699
+    second: Armature|Face_MouthRGT
+  - first:
+      74: 2625597036221674589
+    second: Armature|Face_MouthRotCCWUP
+  - first:
+      74: -4833435966433202358
+    second: Armature|Face_mouthRotCWDWN
+  - first:
+      74: 203346957544127256
+    second: Armature|Face_MouthUP
+  - first:
+      74: -3987794426504275053
+    second: Armature|Face_Snarl.L
+  - first:
+      74: -4381488070072620393
+    second: Armature|Face_Snarl.R
+  - first:
+      74: -865794741139509314
+    second: Armature|Sync_JawOpen
+  - first:
+      74: 5616505630130432806
+    second: Armature|Sync_L
+  - first:
+      74: 2977832928152731324
+    second: Armature|Sync_LipOH
+  - first:
+      74: -9208182549161297954
+    second: Armature|Sync_LipWide
+  - first:
+      74: 6065213584047271734
+    second: Armature|Sync_MBP
+  - first:
+      74: 2288093243330660556
+    second: Armature|Sync_SF
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_EyeSpec
+    second: {fileID: 2100000, guid: 9ebe7f709fc19fb40870089efc0b6e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_Pants
+    second: {fileID: 2100000, guid: d4a3645dab082594797b0952dd579c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_Suit
+    second: {fileID: 2100000, guid: b0734d420baad7b409a8a6c144580c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_eyes
+    second: {fileID: 2100000, guid: 72242970e514f4f4fa96ef7cdfa0201a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_hair
+    second: {fileID: 2100000, guid: 90423dc50c17eba4f933dc7085999790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_katana
+    second: {fileID: 2100000, guid: fb5f18095e2b84e46b1308e0457d41e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_lashes
+    second: {fileID: 2100000, guid: 92569df1a6bb87747b646a3214ece7e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_sheathe
+    second: {fileID: 2100000, guid: 2eb07d5f336c8274d9f3e0da9e4d8ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_shoes
+    second: {fileID: 2100000, guid: e43326c4625243a4596dba1163b07ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_skin
+    second: {fileID: 2100000, guid: bf1531f13cb83b74985439d4cb8ca5b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_teeth
+    second: {fileID: 2100000, guid: 6bd67b2721c71b347a57e514c98480d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YK_tongue
+    second: {fileID: 2100000, guid: 7cd5552f75b430b4eb362f6937c0c67d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
