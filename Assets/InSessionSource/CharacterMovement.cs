@@ -7,7 +7,7 @@ using System;
 [RequireComponent(typeof(Rigidbody))]
 public class CharacterMovement : MonoBehaviour, InputListener
 {
-    [SerializeField] private float movementSpeed;
+    [SerializeField] public float movementSpeed;
     [SerializeField] private float acceleration = 5;
     [SerializeField] private float deceleration = 5;
     [SerializeField] private float angularDampening = 90;
@@ -110,4 +110,5 @@ public class CharacterMovement : MonoBehaviour, InputListener
         Vector3 rayStart = transform.TransformPoint(airborenCheckStart);
         Gizmos.DrawLine(rayStart, rayStart + transform.TransformDirection(airborenCheckDirection) * airborneCheckDistance);
     }
+
 }
