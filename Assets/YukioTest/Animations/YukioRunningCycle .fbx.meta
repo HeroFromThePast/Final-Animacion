@@ -5,7 +5,7 @@ ModelImporter:
   internalIDToNameTable:
   - first:
       74: 4781951162920444690
-    second: Armature|ArmatureAction
+    second: Armature|Run
   - first:
       74: 7010428714613127198
     second: Armature|Eyes_Blink.L
@@ -96,7 +96,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Armature|ArmatureAction
+      name: Armature|Run
       takeName: Armature|ArmatureAction
       internalID: 0
       firstFrame: 0
