@@ -7,7 +7,7 @@ using System;
 [RequireComponent(typeof(Rigidbody))]
 public class CharacterMovement : MonoBehaviour, InputListener
 {
-    [SerializeField] public float movementSpeed;
+    [SerializeField] public float moveSpeed =0f;
     [SerializeField] private float acceleration = 5;
     [SerializeField] private float deceleration = 5;
     [SerializeField] private float angularDampening = 90;
@@ -93,7 +93,7 @@ public class CharacterMovement : MonoBehaviour, InputListener
         Transform cameraTransform = Camera.main.transform;
         Vector3 rigth = Vector3.ProjectOnPlane(cameraTransform.right, transform.up);
         Vector3 forward = Vector3.ProjectOnPlane(cameraTransform.forward, transform.up);
-        Vector3 motionVector = rigth * (wetInputVector.x * movementSpeed * Time.fixedDeltaTime) + forward * (wetInputVector.y * movementSpeed * Time.fixedDeltaTime);
+        Vector3 motionVector = rigth * (wetInputVector.x * moveSpeed * Time.fixedDeltaTime) + forward * (wetInputVector.y * moveSpeed * Time.fixedDeltaTime);
         transform.Translate(motionVector, Space.World);
         if (motionVector.magnitude > 0)
         {
