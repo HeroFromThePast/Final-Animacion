@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personajeJugable: {fileID: 919132149155446097, guid: 97193a78f7190e64693cf07ba666aecc,
     type: 3}
-  imagen: {fileID: 0}
+  imagen: {fileID: 21300000, guid: a80f845ef60f3c24dad05583df2dcd7d, type: 3}
   nombre: YUKIO WHITE
