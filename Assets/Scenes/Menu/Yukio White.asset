@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f1ad78ecf9edc40a8e23235d0e8df5, type: 3}
+  m_Name: Yukio White
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 919132149155446097, guid: 97193a78f7190e64693cf07ba666aecc,
+    type: 3}
+  imagen: {fileID: 21300000, guid: a80f845ef60f3c24dad05583df2dcd7d, type: 3}
+  nombre: YUKIO WHITE
